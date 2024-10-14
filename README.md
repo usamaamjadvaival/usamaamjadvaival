@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there! I'm Usama Amjad.
 
-<!--
-**usamaamjadvaival/usamaamjadvaival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+🌐 I specialize in Natural Language Processing (NLP), leveraging frameworks like LangChain and LangGraph for advanced language modeling.
+📊 I work with both conventional databases and vector databases, ensuring data is structured and accessible.
+💻 I primarily code in Python and build APIs with frameworks like FastAPI and Flask.
 
-Here are some ideas to get you started:
+🔥 Tech Stack
+Programming Languages: Python, SQL
+Frameworks: FastAPI, Flask, TensorFlow, PyTorch, LangChain, LangGraph
+Machine Learning: ML Algorithms, Deep Learning, Reinforcement Learning
+Generative AI: LangChain, LangGraph, NLP Models
+Databases: Conventional Databases (PostgreSQL, MySQL), Vector Databases (Pinecone, FAISS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current Projects
+Developing NLP models and frameworks for real-time conversational AI applications.
+Building scalable machine learning APIs using FastAPI and Flask.
+Experimenting with vector databases for efficient data retrieval in AI applications.
+
+💡 Let's Connect!
+LinkedIn: https://pk.linkedin.com/
+Twitter: 
+Email: 
