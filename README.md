@@ -6,7 +6,7 @@ Hi there! 👋 I'm Usam Amjad, a passionate AI/ML/DL researcher and developer. I
 - **AI/ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Keras, LangChain, LangGraph
 - **NLP:** spaCy, NLTK, Hugging Face Transformers
 - **Generative AI:** OpenAI, GPT, DALL-E, Stable Diffusion, Llama3.1, Llama3.2, Ollama, Vllm
-- **Tools for LangChain and LangGraph:** LangChain, LangGraph
+- **Tools for LangChain and LangGraph:** LangChain, LangGraph, Retrieval-augmented generation (RAG)
 - **Databases:** MySQL, PostgreSQL, MongoDB, Pinecone, Milvus
 - **Web Frameworks:** FastAPI, Flask
 - **Machine Learning Algorithms:** Classification, Regression, Clustering, Reinforcement Learning, Neural Networks
